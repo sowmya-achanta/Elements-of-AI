@@ -1,0 +1,292 @@
+Python 2.7.10 (default, May 23 2015, 09:40:32) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Please enter if you want to play X or O O
+X 's turn
+  |   |   
+  | X |   
+  |   |   
+O 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 9
+  |   | O 
+  | X |   
+  |   |   
+X 's turn
+  |   | O 
+  | X |   
+X |   |   
+O 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 6
+  |   | O 
+  | X | O 
+X |   |   
+X 's turn
+  |   | O 
+  | X | O 
+X |   | X 
+O 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 2
+  |   | O 
+  | X | O 
+X | O | X 
+X 's turn
+X Won!!!
+X |   | O 
+  | X | O 
+X | O | X 
+>>> ================================ RESTART ================================
+>>> 
+Please enter if you want to play X or O X
+X 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 5
+  |   |   
+  | X |   
+  |   |   
+O 's turn
+  |   | O 
+  | X |   
+  |   |   
+X 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 1
+  |   | O 
+  | X |   
+X |   |   
+O 's turn
+  |   | O 
+  | X |   
+X |   | O 
+X 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 3
+Position filled. Please select an empty one!
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 7
+X |   | O 
+  | X |   
+X |   | O 
+O 's turn
+O Won!!!
+X |   | O 
+  | X | O 
+X |   | O 
+>>> ================================ RESTART ================================
+>>> 
+Please enter if you want to play X or O X
+X 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 5
+  |   |   
+  | X |   
+  |   |   
+O 's turn
+  |   | O 
+  | X |   
+  |   |   
+X 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 1
+  |   | O 
+  | X |   
+X |   |   
+O 's turn
+  |   | O 
+  | X |   
+X |   | O 
+X 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 6
+  |   | O 
+  | X | X 
+X |   | O 
+O 's turn
+  |   | O 
+O | X | X 
+X |   | O 
+X 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 8
+  | X | O 
+O | X | X 
+X |   | O 
+O 's turn
+  | X | O 
+O | X | X 
+X | O | O 
+X 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 7
+X | X | O 
+O | X | X 
+X | O | O 
+Draw!!
+>>> ================================ RESTART ================================
+>>> 
+Please enter if you want to play X or O X
+X 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 6
+  |   |   
+  |   | X 
+  |   |   
+O 's turn
+  |   |   
+  | O | X 
+  |   |   
+X 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 9
+  |   | X 
+  | O | X 
+  |   |   
+O 's turn
+  |   | X 
+  | O | X 
+  |   | O 
+X 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 7
+X |   | X 
+  | O | X 
+  |   | O 
+O 's turn
+X | O | X 
+  | O | X 
+  |   | O 
+X 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 1
+X | O | X 
+  | O | X 
+X |   | O 
+O 's turn
+O Won!!!
+X | O | X 
+  | O | X 
+X | O | O 
+>>> ================================ RESTART ================================
+>>> 
+Please enter if you want to play X or O X
+X 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 7
+X |   |   
+  |   |   
+  |   |   
+O 's turn
+X |   |   
+  | O |   
+  |   |   
+X 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 3
+X |   |   
+  | O |   
+  |   | X 
+O 's turn
+X |   | O 
+  | O |   
+  |   | X 
+X 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 1
+X |   | O 
+  | O |   
+X |   | X 
+O 's turn
+X |   | O 
+  | O |   
+X | O | X 
+X 's turn
+Please select position by typing in a number between 1 and 9, see below for which number that is which position...
+7|8|9
+4|5|6
+1|2|3
+
+Select: 4
+X |   | O 
+X | O |   
+X | O | X 
+X Won!!!
+>>> 

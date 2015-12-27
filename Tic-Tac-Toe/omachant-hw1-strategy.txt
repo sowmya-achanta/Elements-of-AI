@@ -1,0 +1,24 @@
+Part I:
+The New York Regents Science Test for fourth graders vs Turing Test:
+Pros:
+
+     1.	Machines that can pass the Science test are relatively easy to create than those that can pass the Turing test. Any machine that can search through a knowledge base quickly and efficiently can pass this test. 
+     2.	The Science Test has questions that require deductions from graphs and pictures to correctly answer them.  Analyzing and connecting the dots between the picture and question shows a reasonable degree of intelligence. In that sense, a machine can be considered intelligent if it passes this test. 
+     3.	Responses are more accurate because the rules can be designed in a way to answer these kind of questions.
+
+Cons:
+
+     1.	This is not enough proof of intelligence as compared to the Turing test. The Turing test is more conversational in nature which requires a level of common sense rather than trying to parse bunch of datasets. 
+     2.	Large volumes of data has to be searched to answer accurately. Efficient rules that are generic in nature have to be designed.
+     3.	Humans can answer any question on Turing Test while machines can’t. Thus Science Test does not check into this aspect of intelligence as done by the Turing Test.   
+
+Part II:
+
+Move Selection strategies:
+
+1. X goes first irrespective of the player(machine/user)
+2. If machine plays first, it begins by filling the center position first.
+3. The user can begin either ways, but the next move by the machine will always be center.
+4. If the user chose center position first, and a corner position in her subsequent move, to not let the user win the machine places it's move on the opposite corner.
+5. The machine blocks the user in any case from getting three by checking similar/dissimilar values both row/column and diagonal wise.
+6. If there are two ways to get a three, the machine choses one way depending on which if..else condition is satisfied first.

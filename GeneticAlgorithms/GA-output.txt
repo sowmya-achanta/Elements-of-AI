@@ -1,0 +1,119 @@
+--------------
+Elitism =True
+--------------
+Population size=  10 Generations= 3 Mutation_prob 0.01
+Best year for difficulty sanity_check is 0 with high score 80.0 and chromosome [0 0 1]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0 1 1 0 0]
+Best year for difficulty medium is 0 with high score 0.0 and chromosome [1 1 0 0 1 1 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0]
+Best year for difficulty hard is 2 with high score 12959.094915546688 and chromosome [0 0 0 0 0 0 0 1 1 1 1 1 1 0 1 1 0 0 1 1 1 0 0 1 1 1 0 1 1 1 1 1 1 1 0 1 0
+ 0 1 1 0 1 0 1 0 1 1 1 1 1 1 0 1 1 1 1 0 1 0 1 0 1 0 0 0 1 1 1 1 1 0 1 1 1
+ 0 0 1 1 1 1 0 0 0 0 1 0 1 0 0 1 0 0 1 0 1 1 1 1 0 1]
+Population size=  10 Generations= 3 Mutation_prob 0.02
+Best year for difficulty sanity_check is 0 with high score 80.0 and chromosome [0 0 1]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0 1 1 0 0]
+Best year for difficulty medium is 0 with high score 133.0 and chromosome [1 0 0 0 1 1 0 0 1 0 1 0 0 0 1 1 0 1 0 0 0]
+Best year for difficulty hard is 2 with high score 12746.432481495356 and chromosome [1 0 1 0 0 0 0 0 1 0 1 1 1 0 1 0 0 1 1 1 0 0 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1
+ 0 1 0 1 1 1 0 1 1 1 1 0 0 1 0 1 1 0 1 0 1 0 0 0 1 1 0 0 0 1 1 1 1 1 1 0 0
+ 0 0 1 0 1 0 1 0 1 0 0 1 1 1 0 1 0 1 1 1 1 1 1 0 1 0]
+Population size=  35 Generations= 5 Mutation_prob 0.01
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1 0 0]
+Best year for difficulty easy is 0 with high score 11.0 and chromosome [0 0 1 0 0]
+Best year for difficulty medium is 3 with high score 107.0 and chromosome [0 0 0 1 1 1 0 0 1 0 0 1 1 0 0 0 0 1 0 1 0]
+Best year for difficulty hard is 4 with high score 13928.79075352657 and chromosome [1 1 1 0 0 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 0 0 1 1 0 1 1 1 1 1 1 0 1 1 0 0 0
+ 0 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 0 1 0 0 1 0 1 0 1 1 1 1 1 1
+ 1 1 0 0 0 0 1 1 0 1 1 0 0 1 1 0 1 1 0 1 0 1 1 0 1 1]
+Population size=  35 Generations= 5 Mutation_prob 0.02
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1 0 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0 1 1 0 0]
+Best year for difficulty medium is 4 with high score 138.0 and chromosome [0 0 0 1 1 0 0 1 1 1 1 0 0 0 1 0 0 0 0 0 1]
+Best year for difficulty hard is 4 with high score 14710.564211635296 and chromosome [1 0 1 0 0 1 1 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1 0 1 1 1 1 1 1 1
+ 1 0 1 0 1 1 1 0 0 0 1 0 1 1 0 1 0 0 1 0 1 1 1 0 0 0 1 0 1 1 1 1 1 1 1 0 1
+ 0 1 0 1 1 1 1 1 0 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 0 1]
+Population size=  75 Generations= 10 Mutation_prob 0.01
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1 0 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0 1 1 0 0]
+Best year for difficulty medium is 0 with high score 130.0 and chromosome [0 0 0 1 0 1 0 0 0 1 1 0 0 0 1 0 1 1 0 1 0]
+Best year for difficulty hard is 9 with high score 16156.919528598499 and chromosome [1 0 1 1 0 1 1 0 1 1 1 0 1 1 0 1 1 1 1 0 1 1 1 1 0 1 0 1 1 1 1 1 1 1 1 0 1
+ 1 1 1 1 0 0 1 1 0 1 1 1 1 0 1 1 1 1 1 1 1 0 1 0 1 1 1 0 1 0 1 1 1 1 1 1 1
+ 1 0 1 0 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1]
+Population size=  75 Generations= 15 Mutation_prob 0.02
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1 0 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0 1 1 0 0]
+Best year for difficulty medium is 3 with high score 154.0 and chromosome [1 0 0 1 1 0 1 0 1 0 1 0 1 0 1 0 0 1 0 1 1]
+Best year for difficulty hard is 14 with high score 18455.87961340027 and chromosome [1 1 1 0 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 0 1
+ 1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 0 1 1 1 1 1 1 0 1 1]
+Population size=  100 Generations= 25 Mutation_prob 0.02
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1 0 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0 1 1 0 0]
+Best year for difficulty medium is 2 with high score 153.0 and chromosome [1 0 0 0 1 0 0 1 0 0 1 0 0 0 0 1 0 1 0 1 0]
+Best year for difficulty hard is 23 with high score 20075.04212344446 and chromosome [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1]
+Population size=  100 Generations= 15 Mutation_prob 0.01
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1 0 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0 1 1 0 0]
+Best year for difficulty medium is 5 with high score 158.0 and chromosome [1 0 0 1 1 1 0 1 0 0 1 0 1 0 1 0 0 1 0 1 0]
+Best year for difficulty hard is 14 with high score 19046.713691140314 and chromosome [1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 0 1 0
+ 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+
+----------------
+Elitism= False:
+----------------
+Population size=  10 Generations= 3 Mutation_prob 0.01
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1 0 0]
+Best year for difficulty easy is 0 with high score 11.0 and chromosome [0 0 1 0 0]
+Best year for difficulty medium is 0 with high score 0.0 and chromosome [1 0 1 1 1 0 0 1 1 0 1 0 0 1 0 1 1 1 0 1 1]
+Best year for difficulty hard is 0 with high score 11856.579002432572 and chromosome [1 1 1 0 1 1 0 0 0 1 1 0 1 1 1 0 1 1 1 0 0 1 1 1 1 0 1 1 0 0 1 0 0 0 0 1 0
+ 0 1 1 1 1 0 0 0 1 1 1 0 0 0 0 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 0 1 0 1 0 1 0
+ 0 0 1 0 0 1 0 1 0 1 1 1 0 0 0 1 0 0 1 1 1 1 0 1 0 1]
+Population size=  10 Generations= 3 Mutation_prob 0.02
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1 0 0]
+Best year for difficulty easy is 2 with high score 15.0 and chromosome [0 1 1 0 0]
+Best year for difficulty medium is 0 with high score 103.0 and chromosome [0 1 0 1 0 1 0 0 1 1 1 1 0 0 0 0 0 1 0 1 0]
+Best year for difficulty hard is 0 with high score 13261.533958666521 and chromosome [1 0 0 1 1 1 0 1 1 1 0 0 1 1 0 1 0 0 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1
+ 1 0 0 0 0 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 0 1 0 0 0 0 0 1 0 1 0 1 1 0 0 1 1
+ 1 0 1 1 1 1 1 1 1 0 1 0 1 1 1 1 1 1 1 0 1 0 0 1 1 1]
+Population size=  35 Generations= 5 Mutation_prob 0.01
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1 0 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0 1 1 0 0]
+Best year for difficulty medium is 0 with high score 91.0 and chromosome [0 1 1 1 0 0 1 0 0 1 1 0 0 0 0 0 0 0 0 0 0]
+Best year for difficulty hard is 0 with high score 12442.86310993391 and chromosome [1 0 1 1 0 1 1 0 1 0 1 1 0 0 0 0 0 1 0 0 1 1 1 0 1 1 1 1 0 1 1 0 0 1 1 1 1
+ 0 1 1 1 0 1 1 0 1 1 1 0 1 1 0 1 1 0 1 1 0 1 1 1 0 0 1 1 1 0 1 0 0 1 0 0 1
+ 0 1 1 1 1 1 1 1 1 0 0 1 1 0 1 1 1 0 1 1 1 1 0 1 1 0]
+Population size=  35 Generations= 5 Mutation_prob 0.02
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1 0 0]
+Best year for difficulty easy is 0 with high score 10.0 and chromosome [1 0 0 0 0]
+Best year for difficulty medium is 0 with high score 93.0 and chromosome [1 0 0 0 0 1 1 0 0 1 0 0 0 1 1 0 0 1 0 0 0]
+Best year for difficulty hard is 0 with high score 11877.925487348182 and chromosome [0 1 0 0 0 1 0 1 1 0 1 1 1 0 1 0 1 1 1 0 0 1 1 0 1 0 1 0 1 0 1 1 0 0 0 1 1
+ 0 1 1 0 0 1 1 1 1 0 1 1 0 0 0 1 1 1 1 1 0 1 1 0 1 0 1 1 1 0 0 1 1 1 1 0 0
+ 1 0 1 0 0 1 1 1 0 1 1 0 0 0 0 0 1 1 1 0 1 1 0 0 1 1]
+Population size=  75 Generations= 10 Mutation_prob 0.01
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1 0 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0 1 1 0 0]
+Best year for difficulty medium is 0 with high score 113.0 and chromosome [0 0 0 0 1 0 0 0 0 1 1 0 0 0 0 0 0 1 1 0 1]
+Best year for difficulty hard is 0 with high score 11531.068529803872 and chromosome [0 1 1 1 1 1 0 0 1 0 1 0 1 0 1 1 1 0 0 1 0 1 0 1 1 1 1 0 1 0 0 0 1 1 1 0 0
+ 0 1 1 1 0 1 1 0 0 1 1 0 0 1 1 1 1 1 0 1 1 1 0 0 1 0 1 1 1 1 0 0 0 1 0 1 1
+ 0 1 1 1 1 1 0 1 1 0 1 1 0 0 1 0 1 1 1 0 1 0 0 1 0 0]
+Population size=  75 Generations= 15 Mutation_prob 0.02
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1 0 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0 1 1 0 0]
+Best year for difficulty medium is 1 with high score 124.0 and chromosome [0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 1 0 1 1 1 0]
+Best year for difficulty hard is 11 with high score 12756.655049383005 and chromosome [0 1 1 1 0 0 1 0 1 1 0 1 1 1 1 1 1 1 1 1 1 0 1 1 0 0 0 1 0 1 0 1 0 0 0 1 1
+ 0 0 1 1 1 0 0 0 1 1 1 0 0 0 1 1 1 1 1 0 0 1 1 1 1 0 1 1 1 1 1 1 0 0 1 1 0
+ 1 1 1 1 1 0 1 1 0 1 1 1 0 1 0 1 1 0 1 1 1 0 0 1 1 0]
+Population size=  100 Generations= 25 Mutation_prob 0.02
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1 0 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0 1 1 0 0]
+Best year for difficulty medium is 18 with high score 155.0 and chromosome [1 0 0 1 1 1 0 1 0 0 1 0 1 0 0 1 0 0 0 0 0]
+Best year for difficulty hard is 0 with high score 12980.316270121206 and chromosome [1 0 1 1 1 1 1 1 0 1 0 1 0 1 0 0 1 1 0 0 0 1 1 1 1 0 0 0 0 1 0 1 1 0 0 1 1
+ 1 0 1 1 0 0 1 1 0 1 1 1 1 0 1 1 1 0 1 1 0 1 1 0 0 0 0 1 1 1 1 0 1 0 1 0 1
+ 1 1 1 1 0 1 0 1 1 1 1 1 1 1 0 0 0 1 0 1 1 0 1 1 1 1]
+Population size=  100 Generations= 15 Mutation_prob 0.01
+Best year for difficulty sanity_check is 0 with high score 100.0 and chromosome [1 0 0]
+Best year for difficulty easy is 0 with high score 15.0 and chromosome [0 1 1 0 0]
+Best year for difficulty medium is 0 with high score 89.0 and chromosome [0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 1 1 1]
+Best year for difficulty hard is 0 with high score 13072.844281099222 and chromosome [0 0 0 1 1 1 1 0 0 0 1 1 0 0 0 1 0 1 1 0 1 1 1 1 1 1 0 1 0 0 0 0 0 1 1 1 1
+ 0 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 0 1 1 1 0 1 0 0 1 0 1 1 1 1
+ 1 1 1 1 1 0 0 0 1 0 1 0 0 0 1 0 0 0 0 0 1 0 0 0 1 1]

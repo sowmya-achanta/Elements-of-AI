@@ -1,0 +1,119 @@
+
+***DFS and BFS for presolved,easy,medium,hard***
+
+Doing Depth First Search  on presolved:
+You've found the solution
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.0 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Breadth First Search on presolved:
+You've found the solution
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.0 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Depth First Search  on easy:
+You've found the solution
+The solution's cost is: 2.1, and involved expanding 27 verticies
+Finding the solution involved 0.00800013542175 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Breadth First Search on easy:
+You've found the solution
+The solution's cost is: 2.1, and involved expanding 9 verticies
+Finding the solution involved 0.0019998550415 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Depth First Search  on medium:
+Ran out of time for thinking
+The queue is of size: 2234
+Doing Breadth First Search on medium:
+Ran out of time for thinking
+The queue is of size: 3948
+Doing Depth First Search  on hard:
+Ran out of time for thinking
+The queue is of size: 4962
+Doing Breadth First Search on hard:
+Ran out of time for thinking
+The queue is of size: 8394
+
+**** Best First for presolved, easy, medium, hard worlds for manhattan,euclidean heuristics **** 
+
+Doing Best First with heuristic manhattan_heuristic on presolved:
+You've found the solution
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.0 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic euclidean_heuristic on presolved:
+You've found the solution
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.0 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic manhattan_heuristic on easy:
+You've found the solution
+The solution's cost is: 2.1, and involved expanding 21 verticies
+Finding the solution involved 0.00600004196167 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic euclidean_heuristic on easy:
+You've found the solution
+The solution's cost is: 2.1, and involved expanding 21 verticies
+Finding the solution involved 0.00600004196167 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic manhattan_heuristic on medium:
+You've found the solution
+The solution's cost is: 21.3, and involved expanding 64 verticies
+Finding the solution involved 0.0260000228882 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic euclidean_heuristic on medium:
+You've found the solution
+The solution's cost is: 21.3, and involved expanding 63 verticies
+Finding the solution involved 0.0250000953674 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic manhattan_heuristic on hard:
+You've found the solution
+The solution's cost is: 189.9, and involved expanding 7335 verticies
+Finding the solution involved 60.5209999084 seconds of walltime
+----------------------------------------------------------------------------------
+Doing Best First with heuristic euclidean_heuristic on hard:
+You've found the solution
+The solution's cost is: 152.9, and involved expanding 7359 verticies
+Finding the solution involved 60.8430001736 seconds of walltime
+----------------------------------------------------------------------------------
+
+**** A* for presolved, easy, medium, hard worlds for manhattan,euclidean heuristics **** 
+
+Doing A* with heuristic euclidean_heuristic on presolved:
+You've found the solution
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.0 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic manhattan_heuristic on presolved:
+You've found the solution
+The solution's cost is: 0, and involved expanding 1 verticies
+Finding the solution involved 0.0 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic euclidean_heuristic on easy:
+You've found the solution
+The solution's cost is: 2.1, and involved expanding 5 verticies
+Finding the solution involved 0.000999927520752 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic manhattan_heuristic on easy:
+You've found the solution
+The solution's cost is: 2.1, and involved expanding 5 verticies
+Finding the solution involved 0.000999927520752 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic euclidean_heuristic on medium:
+You've found the solution
+The solution's cost is: 17.3, and involved expanding 4270 verticies
+Finding the solution involved 32.6350002289 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic manhattan_heuristic on medium:
+You've found the solution
+The solution's cost is: 17.3, and involved expanding 1610 verticies
+Finding the solution involved 4.38199996948 seconds of walltime
+----------------------------------------------------------------------------------
+Doing A* with heuristic euclidean_heuristic on hard:
+Ran out of time for thinking
+The queue is of size: 8341
+Doing A* with heuristic manhattan_heuristic on hard:
+You've found the solution
+The solution's cost is: 40.3, and involved expanding 8590 verticies
+Finding the solution involved 381.09100008 seconds of walltime
+----------------------------------------------------------------------------------
